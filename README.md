@@ -13,11 +13,6 @@ My project folders are organized as:
 	
 # Get started
 
-Just copy-paste the following command into your command-line:
-
-`mkdir -p code data docs output`
-
-Or, create the folders manually with macOS Finder, Windows Explorer, etc.
 
 # More directories
 
