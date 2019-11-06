@@ -1,8 +1,9 @@
-# A New Project Template
+# Systematic IGT Application
+This project will explore the use of Natural Language Processing packages for R to identify the components of Institutional Grammar
 
 > Structure of the Repository: it’s Important.
 
-Here is one way to organize your project folders:
+My project folders are organized as:
 
 	/code
 	/data
@@ -24,11 +25,4 @@ If you want more directories, see the `advanced` branch.
 
 # Inspirations/Resources/References
 
-The original insipration of this structure is for data science'y projects using
-mostly R and/or Python.
 
-http://projecttemplate.net/architecture.html
-
-https://docs.python-guide.org/writing/structure/ ("Structure of the Repository: it’s Important.")
-
-https://kedro.readthedocs.io/en/latest/02_getting_started/04_hello_world.html (Scroll to "Project directory structure")
