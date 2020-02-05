@@ -3,8 +3,6 @@
 # playing with Regex
 # this code creates initial units of observations which have multiple sentences
 # within the sections of georgia code
-# this script originated  25 Jun 2019
-# this script edited      27 Nov 2019
 # this script edited      21 Jan 2020
 #this script edited       5 Feb 2020  v 3.0 
 
